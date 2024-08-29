@@ -1,4 +1,4 @@
-# EventBridge -> Lambda -> Translate
+# EventBridge -> Lambda -> Comprehend
 This patterns shows CDK deployment on how to leverage Amazon EventBridge, AWS Lambda, and Amazon Comprehend to automate the creation & deletion of an endpoint in Amazon Comprehend, to host a custom-trained model for document classification or entity recognition. 
 
 ## Pre-requisities
